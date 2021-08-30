@@ -16,7 +16,7 @@ Deploy lasers, fire!
 
 ## How to Contribute
 
-Contribute this, ya jive turkey
+Contribute this, ya jive turkey. Fork you too.
 
 ### Copyright
 
