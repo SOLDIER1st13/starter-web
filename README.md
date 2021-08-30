@@ -17,3 +17,7 @@ Deploy lasers, fire!
 ## How to Contribute
 
 Contribute this, ya jive turkey
+
+### Copyright
+
+Copyright, bitches.
