@@ -12,4 +12,8 @@ Cat party turkey pants orange
 
 ## Deployment
 
+Deploy lasers, fire!
+
 ## How to Contribute
+
+Contribute this, ya jive turkey
